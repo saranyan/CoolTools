@@ -2,29 +2,29 @@
 List of cool tools - Not in any particular order in approximate grouping
 
 ### Visualization
-Cinder
-Open frameworks
+- Cinder
+- Open frameworks
 
 ### Computer vision
-OpenCV
-reacTIVision
+- OpenCV
+- reacTIVision
 
 
 ### Interfacing with real world 
 
 #### Dataflow programming
-Puredata
-Max/MSP
+- Puredata
+- Max/MSP
 
 
 
 
 ### Devices (sensors)
-Makey Makey
-Leap
+- Makey Makey
+- Leap
 
 ### Immersive
-Oculus
-Meta
+- Oculus
+- Meta
 
 
